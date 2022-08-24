@@ -1,3 +1,3 @@
-# Writing Running Fixing Code in C
+#C Specialization By Duke University from Coursera.
 
-my practices of DUKE's writing running and fixing codes in C course in coursera.
+This is my home archive of C specialization by Duke University.
